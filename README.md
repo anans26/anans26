@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mgananya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgananya)
 [![Gmail](https://img.shields.io/badge/Gmail-mg.ananya%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mg.ananya@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-364%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/anans26/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-anans26-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/anans26/)
 
 </div>
 ---
