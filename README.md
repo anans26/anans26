@@ -29,16 +29,6 @@ class Ananya:
         "Machine Learning", "NLP", "Transformers"
     ]
 
-    hackathons = {
-        "Pragyan X Kanini" : "2nd / 1300+ teams",
-        "Code Kalari"      : "Top 50 / 1000+ teams"
-    }
-
-    leetcode = {
-        "solved" : "364+",
-        "rating" : 1621
-    }
-
     def motto(self):
         return "Build things that matter. Ship things that last."
 ```
@@ -130,15 +120,8 @@ class Ananya:
 
 ---
 
-## Education & Certifications
+## Certifications
 
-<div align="center">
-
-| Degree | Institution | Year | CGPA |
-|--------|-------------|------|------|
-| B.E. — Artificial Intelligence & Machine Learning | Chennai Institute of Technology | 2024 – 2028 | 8.19 |
-
-</div>
 
 <div align="center">
 
