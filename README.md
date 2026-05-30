@@ -85,10 +85,16 @@ class Ananya:
 
 ---
 
-## Most Used Languages
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anans26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6&border_radius=10"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anans26&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
