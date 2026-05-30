@@ -20,7 +20,6 @@ class Ananya:
     name       = "MG Ananya"
     location   = "Chennai, India"
     degree     = "B.E. AI & ML — Chennai Institute of Technology"
-    cgpa       = 8.19
 
     interests  = ["AI/ML/DL", "Web Development", "NLP", "Algorithms"]
 
