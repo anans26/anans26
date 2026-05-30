@@ -1,16 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=MG%20Ananya&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20ML%20Undergraduate%20%E2%80%94%20NLP%20%7C%20Full-Stack%20%7C%20Research&descAlignY=62&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Hi%2C+I'm+Ananya!&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20ML%20Undergraduate%20%E2%80%94%20NLP%20%7C%20Full-Stack%20%7C%20Research&descAlignY=62&descSize=14" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=B.E.+AI+%26+ML+%40+Chennai+Institute+of+Technology;NLP+Researcher+%7C+Published+%40+ICDSAAI+2026;Hackathon+Finalist+%7C+Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=B.E.+AI+%26+ML+%40+Chennai+Institute+of+Technology;NLP+Researcher+%7C+Published+%40+ICDSAAI+2026;AWS+Certified+Cloud+Practitioner;Full-Stack+Developer)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mgananya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgananya)
 [![Gmail](https://img.shields.io/badge/Gmail-mg.ananya%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mg.ananya@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-364%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/anans26/)
 
 </div>
-
 ---
 
 ## About
@@ -22,14 +22,20 @@ class Ananya:
     degree     = "B.E. AI & ML — Chennai Institute of Technology"
     cgpa       = 8.19
 
-    stack = [
-        "Python", "JavaScript", "TypeScript",
-        "React", "Next.js", "Node.js",
-        "Machine Learning", "NLP", "Transformers"
-    ]
+    interests  = ["AI/ML/DL", "Web Development", "NLP", "Algorithms"]
 
-    def motto(self):
-        return "Build things that matter. Ship things that last."
+    currently_working_on = "AI-driven web applications"
+    currently_learning   = ["Advanced Algorithms", "System Design"]
+
+    ask_me_about = ["Python", "React", "Machine Learning"]
+
+    def about(self):
+        return (
+            "Passionate about turning ideas into impactful solutions. "
+            "I explore AI, ML, and full-stack development — "
+            "building things that are both intelligent and useful. "
+            "Always learning, always shipping."
+        )
 ```
 
 ---
@@ -87,50 +93,5 @@ class Ananya:
 🔗 [github.com/anans26/insightflow](https://github.com/anans26/insightflow)
 
 </details>
-
----
-
-## Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| [🧠 LLM Phishing Detector](https://github.com/anans26/llm-phishing-detector) | Python · DistilBERT · NLP · Transformers | Hybrid Transformer + stylometric model · **96.03% accuracy** · **Published @ ICDSAAI 2026** |
-| [🏥 AI Smart Triage System](https://github.com/anans26/triage_kanini) | React · React Native · WebSockets · Axios | Real-time queue via WebSockets · Tesseract OCR + LLM · Random Forest severity classifier |
-| [💬 LumaCalm](https://github.com/anans26/lumacalm-ai) | React · Node.js · Express · MongoDB · JWT | Full-stack wellness chatbot · REST APIs with JWT auth · Persistent conversation history |
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-| | Achievement | Details |
-|--|-------------|---------|
-| 🥈 | Pragyan X Kanini Hackathon | 2nd place — **1300+ teams** |
-| 🏁 | Code Kalari Hackathon | Top 50 Finalist — **1000+ teams** |
-| 📄 | Research Publication | Published @ **ICDSAAI 2026** |
-| 💻 | LeetCode | **364+ problems** · Rating **1621** |
-
-</div>
-
----
-
-## Certifications
-
-
-<div align="center">
-
-| Certification | Issuer | Date |
-|---------------|--------|------|
-| AWS Certified Cloud Practitioner | Amazon Web Services | Nov 2025 |
-| AI Fundamentals | IBM | Feb 2025 |
-| PCEP — Python Essentials | Python Institute | Feb 2025 |
-| Intro to Data Science | Cisco Networking Academy | Jan 2025 |
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
