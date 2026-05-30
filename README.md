@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mgananya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgananya)
 [![Gmail](https://img.shields.io/badge/Gmail-mg.ananya%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mg.ananya@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-anans26-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anans26)
-[![LeetCode](https://img.shields.io/badge/LeetCode-364%2B%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
 
 </div>
 
@@ -29,12 +28,6 @@ class Ananya:
         "React", "Next.js", "Node.js",
         "Machine Learning", "NLP", "Transformers"
     ]
-
-    research = {
-        "paper"    : "Hybrid Transformer-Stylometric Phishing Detection",
-        "accuracy" : "96.03%",
-        "published": "ICDSAAI 2026"
-    }
 
     hackathons = {
         "Pragyan X Kanini" : "2nd / 1300+ teams",
@@ -85,19 +78,10 @@ class Ananya:
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anans26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6&border_radius=10"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anans26&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
----
+#  GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anans26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=anans26&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anans26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Experience
 
@@ -157,13 +141,11 @@ class Ananya:
 
 </div>
 
-<br/>
+</div>
+<div align="center">
+CertificationIssuerDateAWS Certified Cloud PractitionerAmazon Web ServicesNov 2025AI FundamentalsIBMFeb 2025PCEP — Python EssentialsPython InstituteFeb 2025Intro to Data ScienceCisco Networking AcademyJan 2025
+</div>
 
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Nov_2025-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![IBM](https://img.shields.io/badge/AI_Fundamentals_IBM-Feb_2025-054ADA?style=flat-square&logo=ibm&logoColor=white)
-![Python](https://img.shields.io/badge/PCEP_Python_Essentials-Feb_2025-3776AB?style=flat-square&logo=python&logoColor=white)
-![Cisco](https://img.shields.io/badge/Intro_to_Data_Science_Cisco-Jan_2025-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
