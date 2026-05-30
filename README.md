@@ -141,11 +141,15 @@ class Ananya:
 
 </div>
 
-</div>
 <div align="center">
-CertificationIssuerDateAWS Certified Cloud PractitionerAmazon Web ServicesNov 2025AI FundamentalsIBMFeb 2025PCEP — Python EssentialsPython InstituteFeb 2025Intro to Data ScienceCisco Networking AcademyJan 2025
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+| Certification | Issuer | Date |
+|---------------|--------|------|
+| AWS Certified Cloud Practitioner | Amazon Web Services | Nov 2025 |
+| AI Fundamentals | IBM | Feb 2025 |
+| PCEP — Python Essentials | Python Institute | Feb 2025 |
+| Intro to Data Science | Cisco Networking Academy | Jan 2025 |
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
