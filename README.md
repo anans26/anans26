@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mgananya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgananya)
 [![Gmail](https://img.shields.io/badge/Gmail-mg.ananya%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mg.ananya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-anans26-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anans26)
 
 </div>
 
