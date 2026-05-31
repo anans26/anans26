@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Hi%2C+I%27m+Ananya!&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI+%26+ML+Undergraduate+%E2%80%94+NLP+%7C+LLMs+%7C+Agentic+AI+%7C+Full-Stack&descAlignY=62&descSize=14" width="100%"/>
 
 <div align="center">
 
