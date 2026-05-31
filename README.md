@@ -11,7 +11,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-anans26-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/anans26/)
 
 </div>
----
 
 ## About
 
