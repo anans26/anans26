@@ -21,6 +21,7 @@ class Ananya:
     name       = "MG Ananya"
     location   = "Chennai, India"
     degree     = "B.E. AI and ML — Chennai Institute of Technology"
+    cgpa       = 8.19
 
     interests  = ["LLMs", "Agentic AI", "NLP", "Full-Stack AI Apps"]
 
@@ -101,8 +102,7 @@ class Ananya:
 🔗 [github.com/anans26/insightflow](https://github.com/anans26/insightflow)
 
 </details>
-</div>
 
-
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
