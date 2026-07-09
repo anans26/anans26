@@ -1,10 +1,8 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=210&section=header&text=MG%20Ananya&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%20%7C%20%20Full-Stack%20Developer%20%20%7C%20%20Applied%20AI%20Systems&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
-
-<a href="https://github.com/Anans26">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=AI+%26+ML+Engineer;Full-Stack+Product+Developer;Applied+AI+Systems+Builder;Turning+Data+into+Intelligent+Products" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=MG+Ananya;AI+%26+Machine+Learning+Engineer;Full+Stack+Product+Developer;AWS+Certified+Cloud+Practitioner;Applied+AI+Systems+Builder;Turning+Data+into+Intelligent+Products" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/B.E.%20AI%20%26%20ML-Chennai%20Institute%20of%20Technology-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
@@ -238,32 +236,20 @@ Built an analytics dashboard platform that transforms raw tabular data into inte
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anans26&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
-<img height="180em" src="https://streak-stats.demolab.com?user=Anans26&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=9333EA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+![](https://streak-stats.demolab.com/?user=anans26&theme=dark&hide_border=false)</br>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anans26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anans26&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
 
 </div>
 
----
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anans26&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
-
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anans26&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=9333EA&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anans26&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -273,13 +259,14 @@ Built an analytics dashboard platform that transforms raw tabular data into inte
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anans26/Anans26/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Current Focus
+
 
 ```yaml
 name: MG Ananya
