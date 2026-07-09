@@ -1,341 +1,104 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=210&section=header&text=MG%20Ananya&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%20%7C%20%20Full-Stack%20Developer%20%20%7C%20%20Applied%20AI%20Systems&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
-
-<a href="https://github.com/Anans26">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=AI+%26+ML+Engineer;Full-Stack+Product+Developer;Applied+AI+Systems+Builder;Turning+Data+into+Intelligent+Products" alt="Typing SVG"/>
-</a>
-
-<p>
-  <img src="https://img.shields.io/badge/B.E.%20AI%20%26%20ML-Chennai%20Institute%20of%20Technology-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CGPA-8.19-4F46E5?style=for-the-badge&logo=leaderprice&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Batch-2024–2028-6D28D9?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Chennai%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</p>
-
-<p>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mg-ananya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mg.ananya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Anans26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Anans26&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Anans26?label=Followers&style=for-the-badge&color=7C3AED&logo=github"/>
-  <img src="https://img.shields.io/github/stars/Anans26?label=Stars&style=for-the-badge&color=4F46E5&logo=github"/>
-</p>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About
-
-<img align="right" width="34%" src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png" style="max-width:180px;"/>
-
-AI & ML engineer focused on **shipping intelligent, production-grade systems** — not just training models, but wrapping them in reliable full-stack products. I work end-to-end across the software lifecycle: designing ML pipelines, engineering REST APIs, and building the interfaces that put them in users' hands.
-
-- **Software Engineering** — clean architecture, REST APIs, real-time systems (WebSockets), containerized deployment with Docker.
-- **AI / ML Expertise** — deep learning with PyTorch & TensorFlow, Transformer-based NLP, LLM agents, RAG, and applied classical ML.
-- **Full-Stack Development** — React / Next.js / React Native front-ends backed by FastAPI, Flask & Express with PostgreSQL and MongoDB.
-- **Product Engineering Mindset** — I optimize for measurable impact: accuracy, latency, and shippability over prototypes that never leave a notebook.
-
-**Open To** &nbsp;·&nbsp; AI/ML & Software Engineering Internships &nbsp;·&nbsp; Applied Research Collaborations &nbsp;·&nbsp; Open-Source Contributions &nbsp;·&nbsp; New-Grad 2028 Opportunities
-
----
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"> Tech Stack
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,mysql&theme=dark"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,tailwind&theme=dark"/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,express,nodejs,postgres,mongodb&theme=dark"/>
-
-**AI / ML / DL**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark"/>
-
-**Cloud, DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark"/>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:------|:-----------:|:--------|
-| **Machine Learning** | ![Advanced](https://img.shields.io/badge/Advanced-7C3AED?style=flat-square) | Scikit-learn, ensemble methods, Random Forest, feature engineering, model tuning |
-| **Deep Learning** | ![Advanced](https://img.shields.io/badge/Advanced-7C3AED?style=flat-square) | PyTorch, TensorFlow, Transformers, DistilBERT embeddings |
-| **NLP** | ![Advanced](https://img.shields.io/badge/Advanced-7C3AED?style=flat-square) | Multi-class text classification, stylometry, embeddings, phishing detection |
-| **LLMs & AI Agents** | ![Advanced](https://img.shields.io/badge/Advanced-7C3AED?style=flat-square) | LangChain, RAG, prompt engineering, Gemini API, NL-to-SQL agents |
-| **Computer Vision** | ![Intermediate](https://img.shields.io/badge/Intermediate-4F46E5?style=flat-square) | OpenCV, OCR pipelines with Tesseract |
-| **Data Engineering** | ![Intermediate](https://img.shields.io/badge/Intermediate-4F46E5?style=flat-square) | Automated pipelines, PostgreSQL, analytics workflows, AI-ready datasets |
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Featured Projects
-
-<details>
-<summary><b>🛡️ Hybrid Transformer–Stylometric Detection of LLM Phishing Emails</b></summary>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+MG+Ananya!;Full-Stack+Developer;AWS+Certified+Cloud+Practitioner;NLP+Researcher+%7C+Paper+Published+%40+ICDSAAI+2026)](https://git.io/typing-svg)
 
 <br/>
 
-A hybrid detection framework that fuses **DistilBERT contextual embeddings** with **statistical stylometric features** to perform multi-class classification — separating benign, human-written, and LLM-generated phishing emails.
-
-| | |
-|:--|:--|
-| **Stack** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![NLP](https://img.shields.io/badge/-NLP-8B5CF6?style=flat-square) |
-| **Scale** | Multi-class corpus across three email origin categories |
-| **Performance** | **96.03% classification accuracy** |
-| **Security** | Detects AI-generated phishing — a frontier email-threat vector |
-| **Impact** | 📄 Accepted for presentation at **ICDSAAI 2026** |
-| **Repository** | [🔗 View Repository](https://github.com/Anans26) |
-
-Combines transformer-based semantic understanding with interpretable stylometric signals, then runs comparative feature analysis to isolate the markers that distinguish machine-authored phishing from legitimate human correspondence.
-
-</details>
-
-<details>
-<summary><b>🔗 AI-Powered Supply Chain Analytics & Database Agent</b></summary>
-
-<br/>
-
-An analytics platform modeling the full supply-chain graph — suppliers, warehouses, inventory, orders, and shipment networks — with an LLM agent that turns plain-English questions into SQL-backed insights.
-
-| | |
-|:--|:--|
-| **Stack** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Scale** | Multi-entity relational model across the end-to-end logistics network |
-| **Performance** | Automated pipelines producing AI-ready datasets for predictive analytics |
-| **Security** | Structured SQL execution layer over a governed database schema |
-| **Impact** | Natural-language analytics — insights without writing a query |
-| **Repository** | [🔗 View Repository](https://github.com/Anans26) |
-
-The database agent translates natural-language queries into SQL via LLM reasoning, while engineered data pipelines keep the analytics layer continuously fed and predictive-model ready.
-
-</details>
-
-<details>
-<summary><b>🏥 AI Smart Triage & Patient Prioritization System</b></summary>
-
-<br/>
-
-A real-time clinical triage system that scores patient severity on the fly and reorders the care queue live across web and mobile interfaces.
-
-| | |
-|:--|:--|
-| **Stack** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![ML](https://img.shields.io/badge/-Random_Forest-8B5CF6?style=flat-square) ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
-| **Scale** | Real-time queue synchronization across web + mobile clients |
-| **Performance** | Tuned Random Forest with feature selection for live severity scoring |
-| **Security** | Structured handling of unstructured medical records via local LLM |
-| **Impact** | Faster, data-driven prioritization of critical patients |
-| **Repository** | [🔗 View Repository](https://github.com/Anans26) |
-
-An OCR pipeline (Tesseract) paired with a local LLM converts unstructured medical records into model-ready input, feeding a Random Forest classifier whose outputs drive a WebSocket-synchronized live triage queue.
-
-</details>
-
----
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Experience
-
-### AI Intern &nbsp;·&nbsp; **LateShipment Inc**
-`June 2026` &nbsp;—&nbsp; *Shopify Returns Agent*
-
-Built a Gemini-powered conversational returns assistant handling order verification, eligibility checks, and guided resolution end-to-end.
-
-- Engineered the complete returns workflow — Shopify order verification, return processing, image uploads, and shipping-label generation — via **FastAPI REST APIs**.
-- Developed a full-stack **React + PostgreSQL** self-service portal persisting return records and metadata.
-- Owned the pipeline from LLM conversation layer down to database persistence.
-
-`FastAPI` `PostgreSQL` `React` `Gemini API` `Shopify API`
-
-<br/>
-
-### Data Analytics Intern &nbsp;·&nbsp; **Brakes India Private Limited**
-`Nov 2025` &nbsp;—&nbsp; *InsightFlow — Analytics Dashboard Platform*
-
-Built an analytics dashboard platform that transforms raw tabular data into interactive, exportable business intelligence.
-
-- Converted CSV/Excel datasets into dynamic, interactive visualizations via **PapaParse** and **XLSX** parsing pipelines.
-- Developed automated export features generating **PowerPoint and PDF** reports directly from live dashboards.
-
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Recharts`
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:------------|:--------|
-| 🥈 **Pragyan × Kanini** | 2nd Place among **1,300+ teams** |
-| 🏅 **Code Kalari** | Finalist — Top 50 of **1,000+ teams** |
-| 💻 **LeetCode** | **650+ problems solved** · Max Rating **1708** |
-| 📄 **ICDSAAI 2026** | Research paper accepted for presentation |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mgananya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgananya)
+[![Gmail](https://img.shields.io/badge/Gmail-mg.ananya%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mg.ananya@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-anans26-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/anans26/)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sYkxWCa/giphy.gif" width="28"> Certifications
+## About
 
-<div align="center">
+```python
+class Ananya:
+    name       = "MG Ananya"
+    location   = "Chennai, India"
+    degree     = "B.E. AI and ML — Chennai Institute of Technology"
 
-**Amazon Web Services**
+    interests  = ["LLMs", "Agentic AI", "NLP", "Full-Stack AI Apps"]
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+    currently_working_on = "AI-driven web applications"
+    currently_learning   = ["LLM Fine-tuning", "Agentic Workflows", "System Design"]
 
-**IBM**
+    ask_me_about = ["Python", "NLP", "LLMs", "Transformers", "React"]
 
-![IBM AI Fundamentals](https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-
-**Cisco**
-
-![PCEP Python](https://img.shields.io/badge/Cisco-PCEP_Python-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Data Science](https://img.shields.io/badge/Cisco_Academy-Data_Science-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iigGzpBcmhX5FzYCzz/giphy.gif" width="28"> Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/Anans26">
-  <img src="https://img.shields.io/badge/LeetCode-650%2B_Solved_·_1708-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/Anans26">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/Anans26">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-<a href="https://www.codechef.com/users/Anans26">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://leetcard.jacoblin.cool/Anans26?theme=dark&font=Fira%20Code&ext=heatmap" width="70%"/>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/HhTXt43pk1I1W/giphy.gif" width="28"> GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anans26&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
-<img height="180em" src="https://streak-stats.demolab.com?user=Anans26&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=9333EA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anans26&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anans26&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anans26&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=9333EA&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anans26/Anans26/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Current Focus
-
-```yaml
-name: MG Ananya
-role: AI & ML Engineer / Full-Stack Developer
-
-learning:
-  - Advanced LLM agent architectures (multi-agent, tool-use)
-  - Scalable ML systems & MLOps
-  - Distributed backend design
-
-building:
-  - Production-grade applied AI products
-  - Transformer-based NLP detection systems
-  - Full-stack platforms with real-time intelligence
-
-exploring:
-  - Retrieval-augmented generation at scale
-  - Model interpretability & evaluation
-  - Cloud-native AI deployment
-
-open_to:
-  - AI/ML & Software Engineering internships
-  - Applied research collaborations
-  - Open-source contributions
+    def about(self):
+        return (
+            "Passionate about turning ideas into impactful solutions. "
+            "I explore AI, ML, and full-stack development — "
+            "building things that are both intelligent and useful. "
+            "Always learning, always shipping."
+        )
 ```
 
 ---
+## Tech Stack
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Connect
+### Languages
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<a href="mailto:mg.ananya@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mg-ananya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Anans26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+### Frameworks and Libraries
 
-</div>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Tools and Domains
+
+![NLP](https://img.shields.io/badge/NLP-70A5FD?style=for-the-badge&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-BF91F3?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
+
+## GitHub Stats
+
+![](https://streak-stats.demolab.com/?user=anans26&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anans26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-<div align="center">
+## Experience
 
-*"Great engineering isn't about training a model — it's about shipping intelligence people can rely on."*
+<details>
+<summary><b>Brakes India Private Limited</b> &nbsp;—&nbsp; Software Intern &nbsp;|&nbsp; Nov 2025 &nbsp;|&nbsp; Chennai</summary>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=120&section=footer" width="100%"/>
+<br/>
 
-</div>
+> `React` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `Tailwind CSS` &nbsp; `Recharts` &nbsp; `PapaParse` &nbsp; `XLSX`
+
+- Built **InsightFlow** — an interactive analytics platform converting CSV/Excel datasets into customisable dashboards
+- Implemented data parsing pipelines and automated report export to PowerPoint and PDF
+- Delivered a production Next.js application with modular architecture and responsive UI
+
+🔗 [github.com/anans26/insightflow](https://github.com/anans26/insightflow)
+
+</details>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
