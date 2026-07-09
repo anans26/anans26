@@ -302,7 +302,7 @@ open_to:
 
 <div align="center">
 
-*"Great engineering isn't about training a model — it's about shipping intelligence people can rely on."*
+*"kachow 🗲 "*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=120&section=footer" width="100%"/>
 
