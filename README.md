@@ -17,12 +17,6 @@
   <a href="mailto:mg.ananya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Anans26&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Anans26?label=Followers&style=for-the-badge&color=7C3AED&logo=github"/>
-  <img src="https://img.shields.io/github/stars/Anans26?label=Stars&style=for-the-badge&color=4F46E5&logo=github"/>
-</p>
-
 </div>
 
 ---
@@ -259,7 +253,7 @@ Built an analytics dashboard platform that transforms raw tabular data into inte
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/anans26/anans26/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -301,8 +295,6 @@ open_to:
 
 <a href="mailto:mg.ananya@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/mg-ananya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Anans26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
